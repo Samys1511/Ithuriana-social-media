@@ -13,7 +13,6 @@
   --highlight-color: rgba(255, 255, 255, 0.2);
 }
 
-
 body {
   background: var(--bg-url) no-repeat top center/cover;
 }
@@ -42,6 +41,10 @@ body * {
   font-weight: 500;
   line-height: 24px;
   margin-top: 8px;
+}
+
+#profile a {
+  text-decoration: none;
 }
 
 /* links*/
@@ -112,4 +115,3 @@ footer {
   text-align: center;
   font-size: 14px;
 }
-
